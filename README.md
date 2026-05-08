@@ -47,14 +47,14 @@ Me chamo Lauan, sou Desenvolvedor em formação, com sólida base teórica e pr�
 <img 
     align = "left"
     alt="HTML"
-    title="CSS"
+    title="HTML"
     width="50px"
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
 />
 <img 
     align = "left"
-    alt="HTML"
+    alt="CSS"
     title="CSS"
     width="50px"
     style="padding-right: 10px"
@@ -62,24 +62,24 @@ Me chamo Lauan, sou Desenvolvedor em formação, com sólida base teórica e pr�
 />
 <img 
     align = "left"
-    alt="HTML"
-    title="CSS"
+    alt="Python"
+    title="Python"
     width="50px"
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
 <img 
     align = "left"
-    alt="HTML"
-    title="CSS"
+    alt="MySQL"
+    title="MySQL"
     width="50px"
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
 />
 <img 
     align = "left"
-    alt="HTML"
-    title="CSS"
+    alt="JavaScript"
+    title="JavaScript"
     width="50px"
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
